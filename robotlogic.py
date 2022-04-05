@@ -1,6 +1,5 @@
-from turtle import Turtle, Screen
+from turtle import Turtle
 import time
-import random
 
 SOUTH = 270
 NORTH = 90
